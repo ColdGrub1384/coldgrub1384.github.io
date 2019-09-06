@@ -11,3 +11,7 @@ I'm Adrian Labbé, an iOS developer. I have some apps on the App Store, all open
 [Pisth](https://pisth.app) - SSH Client
 
 [Edidown](https://edidown.app) - Code Editor
+
+## Contact
+
+For support for any of my apps, you can contact me at my email address [adrian@labbe.me](mailto:adrian@labbe.me).
