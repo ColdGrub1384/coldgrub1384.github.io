@@ -10,8 +10,6 @@ I'm Adrian Labbé, an iOS developer. I have some apps on the App Store, all open
 
 [LibTerm](https://libterm.app) - Command Line Interface
 
-[Pisth](https://pisth.app) - SSH Client
-
 [Edidown](https://edidown.app) - Code Editor
 
 ## My story as a developer
