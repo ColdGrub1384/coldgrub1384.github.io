@@ -8,6 +8,8 @@ I'm Adrian Labbé, an iOS developer. I have some apps on the App Store, all open
 
 [SeeLess](https://seeless.app) - C IDE
 
+[VSApp](https://vseditor.app) - Online code editor
+
 [LibTerm](https://libterm.app) - Command Line Interface
 
 [Edidown](https://edidown.app) - Code Editor
