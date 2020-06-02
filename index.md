@@ -13,4 +13,4 @@
 
 ## Contact
 
-For support for any of my apps (or to hire me, I wouldn't say no lol 🤗 ), you can contact me at my email address [adrian@labbe.me](mailto:adrian@labbe.me).
+For support for any of my apps you can contact me at my email address [adrian@labbe.me](mailto:adrian@labbe.me).
