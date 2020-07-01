@@ -4,7 +4,7 @@
 
 [SeeLess](https://seeless.app) - C IDE
 
-[VSApp](https://vseditor.app) - Online code editor
+[Servediter](https://servediter.app) - Online code editor
 
 [LibTerm](https://libterm.app) - Command Line Interface
 
