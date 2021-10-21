@@ -2,8 +2,6 @@
 
 [Pyto](https://pyto.app) - Python IDE
 
-[SourceWeb](https://sourceweb.app) - iOS / iPadOS web inspector for Safari
-
 [Deadname Eraser](https://github.com/ColdGrub1384/DeadnameEraser) - A Safari extension to stop web sites from deadnaming you
 
 [ShortWeb](https://shortweb.app) - Web Automations
